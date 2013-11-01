@@ -18,3 +18,7 @@ The third page has rules about parking, including some exceptions specific to pe
 License: These documents quote public law and the license which applies to public laws apply to these documents.
 
 DISCLAIMER: NOTHING IN THIS REPOSITORY OR ASSOCIATED DOCUMENTS ARE PREPARED BY A LAWYER AND NOTHING IN THIS REPOSITORY CONSTITUTES LEGAL ADVICE.
+
+Source documents original URL:
+http://www.dmv.state.pa.us/pdotforms/vehicle_code/chapter33.pdf
+ftp://ftp.dot.state.pa.us/public/PubsForms/Publications/PUB%20380.pdf
